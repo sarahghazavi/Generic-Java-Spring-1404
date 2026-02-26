@@ -1,10 +1,10 @@
-# Generic in Java - Spring 1404
+# Generic Search Engine in Java - Spring 1404
 
 **Simplified Search Engine Project Using Java Generics**
 
 ## 📌 Overview
 
-This project is a collaborative assignment developed as part of our coursework on **Java Generics** during Spring 1404. The aim was to explore and implement generic programming principles in a real-world scenario. We chose to design a **simplified version of a web browser-based search engine**, using JSON files as the underlying dataset.
+This project is a academic project developed as part of our coursework on **Java Generics** during Spring 1404. The aim was to explore and implement generic programming principles in a real-world scenario. We chose to design a **simplified version of a web browser-based search engine**, using JSON files as the underlying dataset.
 
 ## 🚀 Features
 
@@ -33,5 +33,5 @@ This project is a collaborative assignment developed as part of our coursework o
 
 ## 👥 Authors
 
-* \[Sara Ghazavi]
-* \[Pardis Moradi]
+* Sara Ghazavi
+* Pardis Moradi
